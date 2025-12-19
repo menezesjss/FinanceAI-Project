@@ -1,0 +1,5 @@
+{
+  "name": "FinanceAI",
+  "description": "A modern, AI-powered personal finance controller with predictive analysis, transaction management, and goal tracking using the Gemini API.",
+  "requestFramePermissions": []
+}
